@@ -15,6 +15,8 @@ Site institucional estático em `dist/`, HTML/CSS/JavaScript, sem dependências,
 
 Mantém a preferência recente pelos sites anteriores desta conversa baseados no print OnEarth: fotografias escalonadas sobre faixa fotográfica, mosaico, galeria, campo de cor, contato e FAQ. Preto e dourado adaptam a marca da WB. Esta continuidade de modelo substitui o padrão de hero Aroe. Taste: The name as a monument / name-as-monument, seed 1804402212, sem redraw; assinatura WB no cabeçalho e em escala grande no rodapé, com composição fotográfica do modelo escolhido. Não usar as florestas sorteadas nem equipe ou projetos inexistentes.
 
+Atualização da hero em 28/10/2026: novo print BKR enviado pelo usuário substitui somente a abertura. Foto de sala como fundo integral, camada escura, cabeçalho transparente sobreposto com CTA contornado, título à esquerda com segunda linha dourada em Cormorant Garamond itálica e dois botões arredondados. Manrope permanece no restante. Categoria, contornos, duas famílias no título e camada escura são exceções explícitas do print às regras do Taste. CTAs levam ao contato e às referências ilustrativas existentes, sem criar projetos ou depoimentos fictícios. Demais seções preservadas. Foto nova e crédito em credits.md e no rodapé.
+
 Escolha de assunto e campo opcional de ambiente/necessidade montam uma mensagem para WhatsApp. Links das consultas selecionam o assunto. Não há armazenamento, backend, envio automático ou cálculo fictício de orçamento. Visitante revisa e envia no WhatsApp; link padrão e telefone funcionam sem JavaScript. FAQ nativa, menu com Escape e fechamento ao navegar, movimento com fallback prefers-reduced-motion e conteúdo sempre visível.
 
 ## Hospedagem
